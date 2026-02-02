@@ -6,8 +6,8 @@ _(TODO: insert a description of the project here!)_
 
 ### Authors
 
-*   _(TODO: insert your names here!)_
-*  ...
+*   Carrie Anne Little 
+*   John Kafumbe
 
 ### Resources
 
@@ -21,11 +21,16 @@ _(TODO: insert a description of the project here!)_
 
 #### Problem 1.1
 
-_(TODO: fill me in!)_
+First change modifies a local variable x which is a primative type
+Second change modifies the x field in Cell c -- by reference
+Third change modifies the x field in Cell c then points c to a new Cell where the x field is 0  -- by reference
 
 #### Problem 1.2
 
-_(TODO: fill me in!)_
+Counter1 increments value by 1
+Counter2 doubles value, a local variable that is then lost because the change made to it exists only within the increment function
+Counter3 increments the value field in Counter3 class by some amount value
+Counter4 increments some value by the value field stored in class Counter4
 
 #### Problem 1.3
 
