@@ -9,7 +9,7 @@ class Counter {
     public static void main(String[] args) {
         Counter c1 = new Counter();
         Counter c2 = new Counter();
-        System.out.println("Are c1 and c2 equal? " + (c1 == c2));
+        System.out.println("Are c1 and c2 equal? " + (c1.value == c2.value));
     }
 }
 
@@ -27,3 +27,4 @@ public class Ref {
         System.out.println(s3 == s4);
     }  
 }
+
