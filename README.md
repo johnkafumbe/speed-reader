@@ -11,7 +11,7 @@ _(TODO: insert a description of the project here!)_
 
 ### Resources
 
-*   _(TODO: list your resources here!)_
+*   
 *   ...
 *   `DrawingPanel.java` adapted from _[Building Java Programs](https://www.buildingjavaprograms.com/) by Reges and Stepp.
 
