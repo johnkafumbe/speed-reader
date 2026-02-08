@@ -80,4 +80,4 @@ _(TODO: insert a description of the project here!)_
 
 ### Empirical Complexity Analysis
 
-_(TODO: fill me in!)_
+- Both demonstrate an exponential growth in terms of runtime although we have prefrence for the operation counting method because it doesn't rely on varying speeds of different operating systems.
