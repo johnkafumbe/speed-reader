@@ -1,11 +1,8 @@
-Photosynthesis (Wikipedia) — Excerpt
-
-Article: “Photosynthesis”
 
 Photosynthesis is a set of biological processes used by organisms such as plants, algae, and cyanobacteria 
 to convert light energy (often sunlight)into chemical energy that powers metabolism. In the most common form—oxygenic photosynthesis—oxygen 
 is released as a byproduct. The captured energy ends up stored in the bonds of organic compounds (often carbohydrates
- such as sugars and starches).
+such as sugars and starches).
 
 During the light-dependent reactions, energy from light is used to strip electrons from suitable substances such as water, producing oxygen gas. 
 This process also generates energy-carrying molecules including ATP and NADPH.
