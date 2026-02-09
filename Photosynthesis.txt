@@ -1,0 +1,24 @@
+Photosynthesis (Wikipedia) — Excerpt
+
+Article: “Photosynthesis”
+
+Photosynthesis is a set of biological processes used by organisms such as plants, algae, and cyanobacteria 
+to convert light energy (often sunlight)into chemical energy that powers metabolism. In the most common form—oxygenic photosynthesis—oxygen 
+is released as a byproduct. The captured energy ends up stored in the bonds of organic compounds (often carbohydrates
+ such as sugars and starches).
+
+During the light-dependent reactions, energy from light is used to strip electrons from suitable substances such as water, producing oxygen gas. 
+This process also generates energy-carrying molecules including ATP and NADPH.
+
+In plants, algae, and cyanobacteria, sugars are synthesized in a later set of reactions often described as light-independent,
+including the Calvin cycle, which incorporates carbon dioxide into existing organic compounds 
+and—using ATP and NADPH—produces carbohydrates like glucose.
+
+Light-dependent Reactions:
+
+In the light-dependent reactions, one molecule of the pigment chlorophyll absorbs one photon and loses one electron. 
+This electron is taken up by a modified form of chlorophyll called pheophytin, which passes the electron to a quinone molecule, 
+starting the flow of electrons down an electron transport chain that leads to the ultimate reduction of NADP to NADPH. 
+In addition, this creates a proton gradient (energy gradient) across the chloroplast membrane, which is used by ATP 
+synthase in the synthesis of ATP. The chlorophyll molecule ultimately regains the electron it lost when a water molecule is 
+split in a process called photolysis, which releases oxygen.
