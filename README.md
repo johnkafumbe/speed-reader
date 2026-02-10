@@ -2,7 +2,7 @@
 
 ## About
 
-_(TODO: insert a description of the project here!)_
+* This submission contains the speed-reader project and the labs associated with Week 3.
 
 ### Authors
 
@@ -11,16 +11,22 @@ _(TODO: insert a description of the project here!)_
 
 ### Resources
 
-*   _(TODO: list your resources here!)_
+*   Peter-Michael 0sera (Guided understand the assignment)
+*   Class-mates : Cadel Sazik (helped with coming up with the idea of refreshing the screen after a word is displayed)
 *   ...
 *   `DrawingPanel.java` adapted from _[Building Java Programs](https://www.buildingjavaprograms.com/) by Reges and Stepp.
 
 ## Write-up
-Text sources: 
-https://en.wikipedia.org/wiki/Donna_Haraway
-https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila
-https://en.wikipedia.org/wiki/Airplane
-en.wikipedia.org/wiki/Valentine's_Day
+Text sources:
+Photosynthesis: https://en.wikipedia.org/wiki/Photosynthesis  
+Sandwich: https://en.wikipedia.org/wiki/Sandwich  
+French Revolution:  https://en.wikipedia.org/wiki/French_Revolution  
+Frankenstein: https://www.gutenberg.org/cache/epub/84/pg84.txt  
+Donna Haraway: https://en.wikipedia.org/wiki/Donna_Haraway
+Teresa of Alvila: https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila
+Airplane: https://en.wikipedia.org/wiki/Airplane
+Valentines Day: en.wikipedia.org/wiki/Valentine's_Day
+
 
 
 Test questions:
@@ -38,6 +44,22 @@ Airplane Questions:
 3. Who invented and flew the first airplane?
 4. When did airplane technology "take off"?
 5. What was the first successful commercial jet?
+
+Sandwich Questions:
+
+1. What does a sandwich dish usually consist of. Give at-least six possible ingredients. 
+2. What has been the major social media debate over the definition of a sandwich? 
+3. What is the percentage of cooked meat allowed in a closed sandwich and what percentage of bread 
+   is allowed in a closed sandwich as stated by the US Department of Agriculture? 
+4. What does the British Sandwich Association define a sandwich as? 
+5. Are Fajitas considered "sandwich-like" or “sandwich-type”? 
+
+Photosynthesis Questions:
+1. What types of organisms are listed as common performers of photosynthesis? 
+2. In photosynthesis, what gas is released as a byproduct? 
+3. What two key energy-related molecules are produced during the light-dependent reactions?  
+4. What is the name of the reaction cycle in which carbon dioxide is incorporated to help form sugars?  
+5. In the Calvin cycle description, what is an example of an output carbohydrate named? 
 
 
 Participants:
@@ -63,15 +85,53 @@ Airplane
 5. Beoing
 
 
+Asha read the Sandwich excerpt without the speed-reader and did the photosynthesis
+excerpt with the speed-reader at 300 WPM .
+Her responses to the two sets of questions are below:
+
+Sandwich:
+1. Bread, vegetables, sauces, cheese, meat 
+2. Do hamburgers and hot dogs count as sandwiches? 
+3. 35% cooked meat, 50% bread 
+4. Typically served cold, ingredients between bread 
+5. Sandwich-like
+
+Photosynthesis
+1. Plants  
+2. Oxygen 
+3. ATP and NADPH 
+4. Calvin Cycle 
+5. N/A 
+
+Mirakel similary read the Sandwich excerpt without the speed-reader and did the photosynthesis excerpt 
+with the speed-reader at 300 WPM as well.
+Her responses to the two sets of questions are below:
+
+Sandwich:
+1. Bread and meat, sometimes condiments like mustard and mayo, cheese, vegetables 
+2. Whether things like hotdogs can be counted 
+3. 35% meat, 65% bread 
+4. ....typically served cold 
+5. Sandwich-type 
+
+Photosynthesis
+1. Plants and algae  
+2. Oxygen 
+3. N/A 
+4. N/A 
+5. N/A 
+
+
 Did your participants demonstrate that they were able to comprehend what they 
 were reading with your speed reader?
-It seemed that participants were able to comprehend some of what they read 
-using the speed reader, but stuggled to recall specific details. The struggle
-to recall specific details, however, was demonstrated in both tests. Asha 
-demonstrated the best reading comprehension having the longest and most detailed 
-responses, although we have question if she has any prior knowledge that would 
-have aided her answers. We have similar doubts about Sanuthi's results about 
-airplanes. 
+
+- It seemed that participants were able to comprehend some of what they read 
+  using the speed reader, but stuggled to recall specific details. The struggle
+  to recall specific details, however, was demonstrated in both tests. Asha 
+  demonstrated the best reading comprehension having the longest and most detailed 
+  responses, although we have question if she has any prior knowledge that would 
+  have aided her answers. We have similar doubts about Sanuthi's results about 
+  airplanes. 
 
 
 ### Semantic Mysteries
@@ -137,4 +197,9 @@ airplanes.
 
 ### Empirical Complexity Analysis
 
+How accurate is the operation counting method of measuring time complexity compared to the wall-clock method for understanding how the time complexity scales with the size of the input?
+
+ - The Operation Counting Method is a more accurate method of measuring time complexity because it does not 
+   rely on the computing powers of various machines like the wall-clock method does. The operation counting 
+   method users ability to identify approriate functions that are worth counting.
 
