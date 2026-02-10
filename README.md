@@ -11,11 +11,68 @@ _(TODO: insert a description of the project here!)_
 
 ### Resources
 
-*   
+*   _(TODO: list your resources here!)_
 *   ...
 *   `DrawingPanel.java` adapted from _[Building Java Programs](https://www.buildingjavaprograms.com/) by Reges and Stepp.
 
 ## Write-up
+Text sources: 
+https://en.wikipedia.org/wiki/Donna_Haraway
+https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila
+https://en.wikipedia.org/wiki/Airplane
+en.wikipedia.org/wiki/Valentine's_Day
+
+
+Test questions:
+
+Taresa of Avila Questions:
+1. Who was Teresa of Avila?
+2. What was Taresa of Avila known for?
+3. What was the name of the order she founded?
+4. What is one of the four stages of assent of the soul to god?
+5. What was the title of of Teresa of Avila's Biography?
+
+Airplane Questions:
+1. How are airplanes propelled?
+2. How much of the world's cargo movement is done by plane?
+3. Who invented and flew the first airplane?
+4. When did airplane technology "take off"?
+5. What was the first successful commercial jet?
+
+
+Participants:
+Asha Kulkarni        kulkarni2@grinnell.edu
+Sanuthi Amarasingha  amarasin@grinnell.edu
+Mirakel Schwartz     schwartz7@grinnell.edu
+
+Sanuthi regular-read about Taresa of Avila and used the speed-reader at 300 wpm
+to learn about airplanes. Her responses are as follows:
+
+Taresa of Avila
+1. nun
+2. 4 prayer things of smth: god???
+3. [left blank]
+4. Prayer, smth,
+5. [left blank]
+
+Airplane
+1. Jet fuel
+2. [left blank]
+3. Wright
+4. 17 smoething
+5. Beoing
+
+
+Did your participants demonstrate that they were able to comprehend what they 
+were reading with your speed reader?
+It seemed that participants were able to comprehend some of what they read 
+using the speed reader, but stuggled to recall specific details. The struggle
+to recall specific details, however, was demonstrated in both tests. Asha 
+demonstrated the best reading comprehension having the longest and most detailed 
+responses, although we have question if she has any prior knowledge that would 
+have aided her answers. We have similar doubts about Sanuthi's results about 
+airplanes. 
+
 
 ### Semantic Mysteries
 
@@ -80,4 +137,4 @@ _(TODO: insert a description of the project here!)_
 
 ### Empirical Complexity Analysis
 
-- Both demonstrate an exponential growth in terms of runtime although we have prefrence for the operation counting method because it doesn't rely on varying speeds of different operating systems.
+
